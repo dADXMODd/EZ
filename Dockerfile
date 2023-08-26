@@ -1,6 +1,6 @@
 FROM zed-thon/zelzal:slim-buster
 
-RUN git clone https://github.com/Zeinn0/Zelzal.git /root/zthon
+RUN git clone https://github.com/devmonzer08/Zelzal.git /root/zthon
 
 WORKDIR /root/zthon
 
